@@ -7,9 +7,7 @@
 }
 
 /* Navbar */
-.logo img{
-    max-width: 50px;
-height: auto;}
+
 
 .navbar {
     display: flex;
@@ -51,7 +49,7 @@ height: auto;}
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 100vh; /* Fits into viewport without scroll */
+    height: 90vh; /* Fits into viewport without scroll */
     padding: 0 5%;
     background: #f9fcff;
 }
